@@ -8,7 +8,7 @@
 
 <img src="http://media2.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="Computer cat" style="width:200px;height:150;">
 
-<h3>SCM 6 Core Functions :</h3>
+<h3>SCM 6666 Core Functions :</h3>
 
 <pre>
    1.Source Code Management
